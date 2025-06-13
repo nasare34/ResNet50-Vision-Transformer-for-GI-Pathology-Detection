@@ -27,7 +27,7 @@ For detailed results, see the [Results Documentation](RESULTS.md) or the project
    cd gastrointestinal-disease-detection
 
 
-   @misc{yourname2024gidetection,
+   @misc{akwasiasare2024gidetection,
   author = {Akwasi Asare},
   title = {Automated GI Disease Detection using ResNet-50 and Vision Transformers},
   year = {2024},
